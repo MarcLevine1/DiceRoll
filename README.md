@@ -1,2 +1,2 @@
 # DiceRoll
-HTML webpage using PHP that displays two dice roll game. Uses image file: "dice.png". Click to roll the dice and see outcomes.
+DiceRoll.php - Multiple Choice PHP Dice game. To work properly the file dice.png must be included in the folder . Needs XAMPP HTTP server installed where DiceRoll.png is running.
